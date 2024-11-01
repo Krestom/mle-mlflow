@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1730482357405
+current_stage: None
+description: null
+last_updated_timestamp: 1730482357405
+name: churn_model_laptev_ilya
+run_id: 77f12d8d87bf461cb831ba536b53ec59
+run_link: null
+source: file:///home/mle-user/mle-mlflow/log_model_theory/mlruns/475590843898138549/77f12d8d87bf461cb831ba536b53ec59/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1
