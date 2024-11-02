@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1730541139559
+current_stage: None
+description: null
+last_updated_timestamp: 1730541139559
+name: churn_model_laptev_ilya_sergeevich_2
+run_id: b4efbfd97c864b1ea6c8ce20b730779d
+run_link: null
+source: file:///home/mle-user/mle-mlflow/log_model_theory/mlruns/915746992356041500/b4efbfd97c864b1ea6c8ce20b730779d/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 4
